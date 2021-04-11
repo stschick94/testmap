@@ -1449,6 +1449,29 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":0,
+         "firstgid":5225,
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"WelcomeBoard",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":64,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"WelcomeBoard.png",
+                 "imageheight":64,
+                 "imagewidth":96
+                }],
+         "tilewidth":96
         }],
  "tilewidth":32,
  "type":"map",

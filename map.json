@@ -1467,13 +1467,13 @@
          "tiles":[
                 {
                  "id":0,
-                 "image":"..\/..\/..\/Desktop\/Temp\/WorkAdventure\/IAO_Banner.png",
+                 "image":"IAO_Banner.png",
                  "imageheight":64,
                  "imagewidth":128
                 }, 
                 {
                  "id":1,
-                 "image":"..\/..\/..\/Desktop\/Temp\/WorkAdventure\/WelcomeBoard.png",
+                 "image":"WelcomeBoard.png",
                  "imageheight":64,
                  "imagewidth":96
                 }],

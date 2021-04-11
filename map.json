@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/map.json"
+         "target":"map.json"
         }
     },
  "height":28,
@@ -204,7 +204,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -929,7 +929,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -952,7 +952,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/fantasy.png",
+         "image":"fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1084,7 +1084,7 @@
         {
          "columns":16,
          "firstgid":1385,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/tilesets_deviant_milkian_2.png",
+         "image":"tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1180,7 +1180,7 @@
         {
          "columns":16,
          "firstgid":1641,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/tilesets_deviant_milkian_3.png",
+         "image":"tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1330,7 +1330,7 @@
         {
          "columns":16,
          "firstgid":1897,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/tilesets_deviant_milkian_4.png",
+         "image":"tilesets_deviant_milkian_4.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1363,7 +1363,7 @@
         {
          "columns":64,
          "firstgid":2153,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/water.png",
+         "image":"water.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -1453,20 +1453,6 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":5,
-         "firstgid":5225,
-         "image":"..\/..\/..\/Downloads\/tcm-client-master\/tcm-client-master\/TCM\/office-map\/exit_tile.png",
-         "imageheight":160,
-         "imagewidth":160,
-         "margin":0,
-         "name":"exit",
-         "spacing":0,
-         "tilecount":25,
-         "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],

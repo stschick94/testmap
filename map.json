@@ -1451,8 +1451,33 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":0,
          "firstgid":5225,
-         "source":"customTiles.tsx"
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"customTiles",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":64,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"..\/..\/..\/Desktop\/Temp\/WorkAdventure\/IAO_Banner.png",
+                 "imageheight":64,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":1,
+                 "image":"..\/..\/..\/Desktop\/Temp\/WorkAdventure\/WelcomeBoard.png",
+                 "imageheight":64,
+                 "imagewidth":96
+                }],
+         "tilewidth":128
         }],
  "tilewidth":32,
  "type":"map",

@@ -44,11 +44,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Movies-Meting-Room_s45ss4ujhds4"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,

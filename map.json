@@ -28,11 +28,6 @@
                  "value":"General-Meeting-Room_s45ss4ujhds4"
                 }, 
                 {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke \"Leertaste\" und nimm am \"Get-Together\" teil! "
@@ -54,11 +49,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Movies-Meting-Room_s45ss4ujhds4"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
@@ -84,11 +74,6 @@
                  "value":"Movies-Meeting-Room_s45ss4ujhds4"
                 }, 
                 {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke \"Leertaste\" und erz\u00e4hle uns von deinen Lieblingsfilmen!"
@@ -110,11 +95,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Vacation-Meeting-Room_s45ss4ujhds4"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
@@ -140,11 +120,6 @@
                  "value":"https:\/\/app.conceptboard.com\/board\/fgmz-r8t4-40sh-fn5e-q18c"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke \"Leertaste\", um Conceptboard zu bearbeiten!"
@@ -168,11 +143,6 @@
                  "value":"https:\/\/www.ecofleetservices.de\/wp-content\/uploads\/2021\/04\/Organigramm-010-intern.pdf"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke \"Leertaste\", um das Organigramm zu sehen."
@@ -194,11 +164,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/littlealchemy2.com\/"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage",
